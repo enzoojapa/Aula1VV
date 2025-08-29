@@ -12,9 +12,9 @@ public class Primos {
    }
 
    public static void main(String[] args){
-       int numero = 7;
+       int numero = 8;
        if(isPrime(numero)){
-           System.out.println("O número é Primo");
+           System.out.println("O número é Primo!");
        } else {
            System.out.println("O número não é Primo!");
        }
